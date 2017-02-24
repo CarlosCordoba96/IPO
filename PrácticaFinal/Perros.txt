@@ -1,0 +1,10 @@
+Dan
+Gran Danés
+Macho
+false
+Adoptado
+Zeus
+Gran danés
+Macho
+true
+Fallecido
